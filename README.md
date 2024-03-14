@@ -3,7 +3,7 @@
 
 <h2>1.About</h2>
 The requirement is to create a web application that allows users to input date,validate it,store it in a database,retreive it and display it in a table format.
-Used python as programming language with flask framework,and SQLiten is used as database.
+Used python as programming language with flask framework,and SQLite is used as database.
 
 <h2>2.Installation:</h2>
 
